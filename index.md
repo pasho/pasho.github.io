@@ -1,4 +1,5 @@
 # Hello World!
 
-https://pasho.github.io/banjo-tab
+## My Projects
+- [Banjo Tab](/banjo-tab)
 
