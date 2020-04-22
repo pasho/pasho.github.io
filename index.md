@@ -1,5 +1,3 @@
-# Hello World!
-
-## My Projects
+# My Projects
 - [Banjo Tab](/banjo-tab)
 
